@@ -1,3 +1,3 @@
-## Bot Confucius.ID
+## Yucub Video Streaming
 
-Available online [Bot](https://bot.confucius.id).
+
